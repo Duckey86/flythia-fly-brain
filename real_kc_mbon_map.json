@@ -1,0 +1,4682 @@
+{
+  "-1,-1": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 21945,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 25762,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 26598,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 28042,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 32597,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 32968,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 33645,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 33754,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 36847,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 38389,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 39000,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 41305,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 42711,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 43194,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 45361,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 50956,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 53863,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 58154,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 58818,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 65386,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 68130,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 74538,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 75140,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 76751,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 81221,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 84514,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 93551,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 94412,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 99002,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 100226,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 112892,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 120066,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 120845,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 123120,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 125092,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 126155,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 132684,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 134570,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 135739,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 137423,
+          "weight": 1.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 21945,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 25762,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 26598,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 28042,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 32597,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 32968,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 33645,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 33754,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 35029,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 36847,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 38389,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 39000,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 41305,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 42711,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 45361,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 50956,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 53863,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 58154,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 58818,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 65386,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 68130,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 74538,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 76751,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 77745,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 81221,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 84514,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 93551,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 94412,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 96331,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 99002,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 100226,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 112892,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 120845,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123120,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 125092,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 126155,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132684,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 134570,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 135739,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 137423,
+          "weight": 3.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 1689,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 2019,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 10185,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 18513,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 24368,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 25166,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 25762,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 26598,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 28042,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 31598,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 32597,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 32968,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 33645,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 33754,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 35029,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 36847,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 38389,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 39000,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 41305,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 42225,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 42711,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 43194,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 45361,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 50956,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 53863,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 58154,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 65386,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 68130,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 71728,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 74538,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 75140,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 76751,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 77745,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 81221,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 84514,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 88978,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 93551,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 94412,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 96331,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 99002,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 100226,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 112892,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 120066,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 120845,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 123120,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 125092,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 125931,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 126155,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 126409,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 126866,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 129287,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 132684,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 132898,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 134570,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 135739,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 137423,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 137711,
+          "weight": 7.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 1689,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 2019,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 10185,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 18513,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 24368,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 25166,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 31598,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 42225,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 71728,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 88978,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 125931,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 126409,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 126866,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 129287,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132898,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 137711,
+          "weight": 6.0
+        }
+      ]
+    }
+  },
+  "0,-1": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 1094,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 3227,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 5654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 8025,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 9112,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13339,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 15654,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 15736,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 24493,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 28042,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 31085,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 32968,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 37851,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 38006,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 39000,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 42711,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 47672,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 53748,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 62573,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 67847,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 72451,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 73986,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 79788,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 85423,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 86136,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 86486,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 88054,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 90926,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 99845,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 100226,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 104709,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 112082,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 113154,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 114341,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 114732,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 116206,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 126964,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 127104,
+          "weight": 2.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 1094,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 3227,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 5654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 8025,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 9112,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 13339,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 15654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 15736,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 28042,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 31085,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 32968,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 37851,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 38006,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 39000,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 42711,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 47672,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 53748,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 62573,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 67847,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 72451,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 73986,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 86136,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 86486,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 88054,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 90926,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 99845,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 100226,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 104709,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 113154,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 114341,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 114732,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 116206,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 126964,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 127104,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 135437,
+          "weight": 1.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 1094,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 1719,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 5654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 8025,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 9112,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13339,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 15654,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 15736,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 21584,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 24493,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 26199,
+          "weight": 15.0
+        },
+        {
+          "kc_index": 28042,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 30466,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 30485,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 32968,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 36344,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 37470,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 37851,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 38006,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 39000,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 42711,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 47672,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 53748,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 60569,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 61553,
+          "weight": 13.0
+        },
+        {
+          "kc_index": 62573,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 67847,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 72451,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 73986,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 76330,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 77459,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 77704,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 79788,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 85423,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 86136,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 86486,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 90926,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 94696,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 99845,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 100226,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 104709,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 106305,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 112082,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 113154,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 114341,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 114732,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 115780,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 116206,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 118092,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 120394,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 126964,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 127104,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 132322,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 135437,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 136566,
+          "weight": 3.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 1719,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 21584,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 26199,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 30466,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 30485,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 36344,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 37470,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 60569,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 61553,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 76330,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 77459,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 77704,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 94696,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 106305,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 115780,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 118092,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 120394,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 132322,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 136566,
+          "weight": 11.0
+        }
+      ]
+    }
+  },
+  "1,-1": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 4059,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 5654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 6763,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 12293,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 12557,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 24493,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 25826,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 27791,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 27954,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 28192,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 31085,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 31109,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 43214,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 49273,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 52065,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 52762,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 53863,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 56041,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 58919,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 59222,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 61349,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 61892,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 72647,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 75848,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 82944,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 85479,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 87600,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 92133,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 92973,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 93124,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 96358,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 106889,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 108050,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 132445,
+          "weight": 4.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 4059,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 5654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 6763,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 12293,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 12557,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 27791,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 27954,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 28192,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 31085,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 31109,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 34995,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 43214,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 49273,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 52065,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 52762,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 53863,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 56041,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 58919,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 59222,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 61892,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 72647,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 75848,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 85479,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 87600,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 92133,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 93124,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 96358,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 106858,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 106889,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 108050,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 132445,
+          "weight": 2.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 1404,
+          "weight": 12.0
+        },
+        {
+          "kc_index": 4059,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 5654,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 6763,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 9983,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 10350,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 12293,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 12557,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 19752,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 24493,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 27791,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 27954,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 28016,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 28192,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 34529,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 34995,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 49270,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 49273,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 52065,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 52762,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 53863,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 54245,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 56041,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 58919,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 61349,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 61892,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 62300,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 65379,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 66820,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 70830,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 72647,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 82944,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 85148,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 85479,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 87047,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 87600,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 91968,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 92133,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 92973,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 93124,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 94815,
+          "weight": 11.0
+        },
+        {
+          "kc_index": 95921,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96358,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 100126,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 101902,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 106889,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 108050,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 126102,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 126403,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132216,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 132445,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 138167,
+          "weight": 7.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 1404,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 9983,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 10350,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 19752,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 28016,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 34529,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 49270,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 54245,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 62300,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 65379,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 66820,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 85148,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 87047,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 91968,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 94815,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 95921,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 100126,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 101902,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 126102,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 126403,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 132216,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 138167,
+          "weight": 6.0
+        }
+      ]
+    }
+  },
+  "-1,0": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 35425,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 40208,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 63963,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 89735,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 115993,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123703,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 130121,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 134570,
+          "weight": 1.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 35425,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 40208,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 55414,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 63963,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 89735,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 123703,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 130121,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 134570,
+          "weight": 1.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 5250,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 6017,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 7030,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 10350,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 10389,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 10424,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 12164,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 14154,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 21145,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 26074,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 27412,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 28024,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 29423,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 31247,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 35425,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 37470,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 38778,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 40208,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 44722,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 47699,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 48298,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 55414,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 59497,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 63963,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 64652,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 67013,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 67176,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 67708,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 67749,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 73589,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 75544,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 77920,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 81977,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 82781,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 84821,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 86460,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 89735,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 90061,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 92862,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 94090,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 97906,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 98766,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 99757,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 105075,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 108895,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 115282,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 115993,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 117644,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 120394,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 120526,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 123347,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 123703,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123723,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 123864,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 124922,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 125986,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 134570,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 136492,
+          "weight": 3.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 6017,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 7030,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 10350,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 10389,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 10424,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 12164,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 14154,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 21145,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 26074,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 27412,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 28024,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 29423,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 31247,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 31907,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 37470,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 38778,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 44722,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 47699,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 48298,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 59497,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 64652,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 67013,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 67176,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 67708,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 67749,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 73589,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 75544,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 77920,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 81977,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 82781,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 84821,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 86460,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 90061,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 92862,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 94090,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 97906,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 98766,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 99757,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 105075,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 108895,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 115282,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 117644,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 120394,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 120526,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 123347,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 123723,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 123864,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 124922,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 125986,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 136492,
+          "weight": 3.0
+        }
+      ]
+    }
+  },
+  "1,0": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 500,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 7026,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 12293,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13339,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13603,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 13838,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 18936,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 25762,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 27043,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 31831,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 36236,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 38302,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 39071,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 45481,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 52316,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 58576,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 60794,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 61892,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 65387,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 68130,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 75848,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 77726,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 78030,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 79267,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 81221,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 82453,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 83101,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 84514,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 94734,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 103161,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 104709,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 112892,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 116196,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 119949,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 122397,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 125140,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 131277,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 132445,
+          "weight": 4.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 500,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 7026,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 12293,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13339,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 13603,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 13838,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 17386,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 18936,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 20818,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 25762,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 27043,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 31831,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 36236,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 38302,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 39071,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 45481,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 52316,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 58576,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 60794,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 61892,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 65387,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 68130,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 75848,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 77726,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 79267,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 81221,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 82453,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 83101,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 84514,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 94734,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 96331,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 103161,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 104709,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 112892,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 116196,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 119949,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 125140,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 131277,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132445,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 138078,
+          "weight": 3.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 500,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 6068,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 6284,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 6746,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 7026,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 12293,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13339,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 13439,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13603,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 13838,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 17386,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 18936,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 20818,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 25762,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 27043,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 28029,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 29009,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 31831,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 36236,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 39071,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 45481,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 49270,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 52316,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 58576,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 60794,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 61892,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 65387,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 68130,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 74795,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 77726,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 78030,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 79267,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 81221,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 82453,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 83101,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 83667,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 84514,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 94734,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 96178,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 96331,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96784,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 98523,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 98929,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 103161,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 104151,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 104709,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 112892,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 116196,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 119949,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 122397,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123741,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 123864,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 125140,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 131277,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132110,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 132445,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 138078,
+          "weight": 3.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 6068,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 6284,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 6746,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 29009,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 49270,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 74795,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 83667,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96178,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 96784,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 98523,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 98929,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 104151,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 108533,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 123741,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 123864,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132110,
+          "weight": 6.0
+        }
+      ]
+    }
+  },
+  "-1,1": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 8650,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 9394,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 10155,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 14653,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 21864,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 26231,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 26691,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 27856,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 35073,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 38389,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 38786,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 60968,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 88588,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 96358,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 99567,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 113385,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 127745,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 136588,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 138077,
+          "weight": 1.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 8650,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 9394,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 10155,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 14653,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 21864,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 26691,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 27856,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 38389,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 38786,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 60968,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96331,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 96358,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 99567,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 100761,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 115581,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 127745,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 136588,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 138077,
+          "weight": 2.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 3619,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 3722,
+          "weight": 11.0
+        },
+        {
+          "kc_index": 8650,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 9394,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 13013,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 14653,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 21864,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 25221,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 25567,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 26186,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 26231,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 27856,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 28175,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 28205,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 30605,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 32525,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 35073,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 36590,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 38389,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 38786,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 38866,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 40901,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 44149,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 50497,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 60482,
+          "weight": 14.0
+        },
+        {
+          "kc_index": 60968,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 70830,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 70922,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 74746,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 77839,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 79744,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 88588,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 88978,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 90117,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 92715,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 96331,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96358,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 96784,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 99567,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 100761,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 104582,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 104655,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 105504,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 107935,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 113385,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 122423,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 124804,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 124814,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 125142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 127745,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 128180,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 129391,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 132886,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 134579,
+          "weight": 11.0
+        },
+        {
+          "kc_index": 135089,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 138077,
+          "weight": 3.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 3619,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 3722,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 13013,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 25221,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 25567,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 26186,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 28175,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 28205,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 30605,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 32525,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 36590,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 40901,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 44149,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 50497,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 60482,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 70922,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 74746,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 77839,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 79744,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 88978,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 90117,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 92715,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 96784,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 104582,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 104655,
+          "weight": 11.0
+        },
+        {
+          "kc_index": 105504,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 107935,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 122423,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 124804,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 124814,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 125142,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 129391,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 132886,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 134579,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 135089,
+          "weight": 6.0
+        }
+      ]
+    }
+  },
+  "0,1": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 623,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 11599,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 11925,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 17228,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 22737,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 23117,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 27954,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 29881,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 33827,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 34030,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 44017,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 50956,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 58818,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 61349,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 62109,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 66782,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 85284,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 95270,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 98445,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 103161,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 105410,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 120845,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 123318,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123703,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 125140,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 126345,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 132279,
+          "weight": 2.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 623,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 11599,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 11862,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 11925,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 17228,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 22737,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 23117,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 27954,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 29881,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 33827,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 34030,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 35029,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 44017,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 50956,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 55414,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 58818,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 62109,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 95270,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 98445,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 101260,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 103161,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 105410,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 120845,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123703,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 125140,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 132279,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 133577,
+          "weight": 2.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 623,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 11599,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 11862,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 11925,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 16649,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 17228,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 18735,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 21945,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 22737,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 23117,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 23232,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 27954,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 28836,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 29881,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 30466,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 33492,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 33827,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 34030,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 35029,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 38601,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 44017,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 45774,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 50956,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 53962,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 54245,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 55414,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 58779,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 61316,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 61349,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 62109,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 65249,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 65610,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 66782,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 68372,
+          "weight": 11.0
+        },
+        {
+          "kc_index": 79337,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 80206,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 84517,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 85284,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 95270,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 98445,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 98523,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 98695,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 101260,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 103161,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 105293,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 105410,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 109142,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 118967,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 120845,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 123318,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123703,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123823,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 125140,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 126345,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 133577,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 136566,
+          "weight": 3.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 16649,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 18735,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 23232,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 28836,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 30466,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 33492,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 34577,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 38601,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 45774,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 53962,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 54245,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 58779,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 61316,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 65249,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 65610,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 68372,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 76125,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 79337,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 80206,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 84517,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 98523,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 98695,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 105293,
+          "weight": 11.0
+        },
+        {
+          "kc_index": 118967,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 123823,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 136566,
+          "weight": 11.0
+        }
+      ]
+    }
+  },
+  "1,1": {
+    "LEFT": {
+      "mbon_id": 720575940617552340,
+      "connections": [
+        {
+          "kc_index": 7026,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 7305,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 19393,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 30766,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 32277,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 34767,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 60137,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 60794,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 76751,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 77726,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 85435,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 86173,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 88588,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 94074,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 98445,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 101714,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 126060,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 133302,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 136227,
+          "weight": 4.0
+        }
+      ]
+    },
+    "RIGHT": {
+      "mbon_id": 720575940624185095,
+      "connections": [
+        {
+          "kc_index": 7026,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 7305,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 19393,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 30766,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 32277,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 60137,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 60794,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 65952,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 72998,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 76751,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 77726,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 85435,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 86173,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 94074,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 98445,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 120058,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 126060,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 133302,
+          "weight": 1.0
+        }
+      ]
+    },
+    "UP": {
+      "mbon_id": 720575940623201833,
+      "connections": [
+        {
+          "kc_index": 7026,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 7305,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 10951,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 17415,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 18352,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 19393,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 19942,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 23717,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 30766,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 32277,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 32890,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 34767,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 34868,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 36726,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 42841,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 48301,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 50951,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 51470,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 52080,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 60137,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 60441,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 60794,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 63640,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 65952,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 66604,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 71684,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 72998,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 76330,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 76751,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 77726,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 80682,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 80988,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 85435,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 86173,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 86924,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 88588,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 90332,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 94074,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 96493,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96784,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 97398,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 98445,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 101552,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 101714,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 103740,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 105010,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 110538,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 111081,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 113207,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 114300,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 120058,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 121891,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 123541,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 125931,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 126060,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 126409,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 128302,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 133302,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 135024,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 136227,
+          "weight": 8.0
+        }
+      ]
+    },
+    "DOWN": {
+      "mbon_id": 720575940629422086,
+      "connections": [
+        {
+          "kc_index": 10951,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 17415,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 18352,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 19942,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 23717,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 32890,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 34868,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 36726,
+          "weight": 5.0
+        },
+        {
+          "kc_index": 42841,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 48301,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 50951,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 51470,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 52080,
+          "weight": 10.0
+        },
+        {
+          "kc_index": 60441,
+          "weight": 3.0
+        },
+        {
+          "kc_index": 63640,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 66604,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 71684,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 76330,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 80682,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 80988,
+          "weight": 8.0
+        },
+        {
+          "kc_index": 86924,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 90332,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 96493,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 96784,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 97398,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 101552,
+          "weight": 9.0
+        },
+        {
+          "kc_index": 103740,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 105010,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 110538,
+          "weight": 2.0
+        },
+        {
+          "kc_index": 111081,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 114300,
+          "weight": 7.0
+        },
+        {
+          "kc_index": 121891,
+          "weight": 1.0
+        },
+        {
+          "kc_index": 123541,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 125931,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 126409,
+          "weight": 6.0
+        },
+        {
+          "kc_index": 128302,
+          "weight": 4.0
+        },
+        {
+          "kc_index": 135024,
+          "weight": 10.0
+        }
+      ]
+    }
+  }
+}

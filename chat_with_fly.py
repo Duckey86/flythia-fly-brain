@@ -35,7 +35,7 @@ sys.path.insert(0, str(CODE_DIR))
 
 
 def load_atlas():
-    with open(ATLAS_PATH) as f:
+    with open(ATLAS_PATH, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -278,21 +278,33 @@ def run_simulation(stim_keys=None, silence_keys=None, neuron_ids=None,
 
     # Extract KC activity for potential learning
     kc_info = None
-    if use_memory:
-        try:
-            from dopamine_learning import FlyMemory
-            fly_mem = FlyMemory()
-            active_kc = fly_mem.get_active_kc(spk_trn)
-            active_mbon = fly_mem.get_active_mbon(spk_trn)
-            kc_info = {
-                'active_kc_count': len(active_kc),
-                'active_mbon_count': len(active_mbon),
-                'total_kc': len(fly_mem.kc_indices),
-                'total_mbon': len(fly_mem.mbon_indices),
-                'active_kc_indices': active_kc,  # Store for learning
-            }
-        except Exception:
-            pass
+
+    try:
+        from dopamine_learning import FlyMemory
+
+        fly_mem = FlyMemory()
+
+        active_kc = fly_mem.get_active_kc(
+            spk_trn
+        )
+
+        active_mbon = fly_mem.get_active_mbon(
+            spk_trn
+        )
+
+        kc_info = {
+            "active_kc_count": len(active_kc),
+            "active_mbon_count": len(active_mbon),
+            "total_kc": len(fly_mem.kc_indices),
+            "total_mbon": len(fly_mem.mbon_indices),
+            "active_kc_indices": active_kc,
+        }
+
+    except Exception as e:
+        print(
+            "KC extraction error:",
+            e
+        )
 
     result = {
         'status': 'success',

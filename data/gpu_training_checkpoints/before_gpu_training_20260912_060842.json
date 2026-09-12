@@ -1,0 +1,2057 @@
+{
+  "experiences": [
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 46
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 40
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 18
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 28
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 26
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 49
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 49
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 17
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 18
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 46
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 12
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 40
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 17
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 14
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 14
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 28
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 17
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 18
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 17
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 14
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 20
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 49
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 18
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 51
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 28
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 36
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 19
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 14
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 50
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 50
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 39
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 40
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 15
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 33
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 16
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 40
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 23
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 14
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 19
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 19
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 5
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 37
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 28
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        -1
+      ],
+      "action": "UP",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 41
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 20
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 20
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 16
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        -1
+      ],
+      "action": "RIGHT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940624185095,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        1
+      ],
+      "action": "LEFT",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 13
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "UP",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940623201833,
+      "real_synapses_modified": 37
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        -1
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        -1,
+        0
+      ],
+      "action": "LEFT",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940617552340,
+      "real_synapses_modified": 6
+    },
+    {
+      "label": "flythia",
+      "state": [
+        0,
+        1
+      ],
+      "action": "DOWN",
+      "reward": 1,
+      "signal_type": "reward",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 22
+    },
+    {
+      "label": "flythia",
+      "state": [
+        1,
+        0
+      ],
+      "action": "DOWN",
+      "reward": -1,
+      "signal_type": "punishment",
+      "target_mbon": 720575940629422086,
+      "real_synapses_modified": 12
+    },
+    {
+      "label": "flythia",
+      "state": 

@@ -1,0 +1,178 @@
+{
+  "-1,-1": {
+    "LEFT": {
+      "baseline_drive": 112.0,
+      "target_drive": 141.25,
+      "factor": 1.2611607142857142
+    },
+    "RIGHT": {
+      "baseline_drive": 114.0,
+      "target_drive": 141.25,
+      "factor": 1.2390350877192982
+    },
+    "UP": {
+      "baseline_drive": 258.0,
+      "target_drive": 141.25,
+      "factor": 0.5474806201550387
+    },
+    "DOWN": {
+      "baseline_drive": 81.0,
+      "target_drive": 141.25,
+      "factor": 1.7438271604938271
+    }
+  },
+  "0,-1": {
+    "LEFT": {
+      "baseline_drive": 94.0,
+      "target_drive": 134.5,
+      "factor": 1.4308510638297873
+    },
+    "RIGHT": {
+      "baseline_drive": 81.0,
+      "target_drive": 134.5,
+      "factor": 1.6604938271604939
+    },
+    "UP": {
+      "baseline_drive": 258.0,
+      "target_drive": 134.5,
+      "factor": 0.5213178294573644
+    },
+    "DOWN": {
+      "baseline_drive": 105.0,
+      "target_drive": 134.5,
+      "factor": 1.2809523809523808
+    }
+  },
+  "1,-1": {
+    "LEFT": {
+      "baseline_drive": 109.0,
+      "target_drive": 126.75,
+      "factor": 1.1628440366972477
+    },
+    "RIGHT": {
+      "baseline_drive": 82.0,
+      "target_drive": 126.75,
+      "factor": 1.545731707317073
+    },
+    "UP": {
+      "baseline_drive": 192.0,
+      "target_drive": 126.75,
+      "factor": 0.66015625
+    },
+    "DOWN": {
+      "baseline_drive": 124.0,
+      "target_drive": 126.75,
+      "factor": 1.0221774193548387
+    }
+  },
+  "-1,0": {
+    "LEFT": {
+      "baseline_drive": 24.0,
+      "target_drive": 131.5,
+      "factor": 5.479166666666667
+    },
+    "RIGHT": {
+      "baseline_drive": 20.0,
+      "target_drive": 131.5,
+      "factor": 6.575
+    },
+    "UP": {
+      "baseline_drive": 259.0,
+      "target_drive": 131.5,
+      "factor": 0.5077220077220077
+    },
+    "DOWN": {
+      "baseline_drive": 223.0,
+      "target_drive": 131.5,
+      "factor": 0.5896860986547086
+    }
+  },
+  "1,0": {
+    "LEFT": {
+      "baseline_drive": 105.0,
+      "target_drive": 133.75,
+      "factor": 1.2738095238095237
+    },
+    "RIGHT": {
+      "baseline_drive": 96.0,
+      "target_drive": 133.75,
+      "factor": 1.3932291666666667
+    },
+    "UP": {
+      "baseline_drive": 250.0,
+      "target_drive": 133.75,
+      "factor": 0.535
+    },
+    "DOWN": {
+      "baseline_drive": 84.0,
+      "target_drive": 133.75,
+      "factor": 1.5922619047619047
+    }
+  },
+  "-1,1": {
+    "LEFT": {
+      "baseline_drive": 50.0,
+      "target_drive": 132.25,
+      "factor": 2.645
+    },
+    "RIGHT": {
+      "baseline_drive": 52.0,
+      "target_drive": 132.25,
+      "factor": 2.543269230769231
+    },
+    "UP": {
+      "baseline_drive": 251.0,
+      "target_drive": 132.25,
+      "factor": 0.5268924302788844
+    },
+    "DOWN": {
+      "baseline_drive": 176.0,
+      "target_drive": 132.25,
+      "factor": 0.7514204545454546
+    }
+  },
+  "0,1": {
+    "LEFT": {
+      "baseline_drive": 89.0,
+      "target_drive": 132.5,
+      "factor": 1.4887640449438202
+    },
+    "RIGHT": {
+      "baseline_drive": 79.0,
+      "target_drive": 132.5,
+      "factor": 1.6772151898734178
+    },
+    "UP": {
+      "baseline_drive": 221.0,
+      "target_drive": 132.5,
+      "factor": 0.5995475113122172
+    },
+    "DOWN": {
+      "baseline_drive": 141.0,
+      "target_drive": 132.5,
+      "factor": 0.9397163120567376
+    }
+  },
+  "1,1": {
+    "LEFT": {
+      "baseline_drive": 66.0,
+      "target_drive": 148.75,
+      "factor": 2.253787878787879
+    },
+    "RIGHT": {
+      "baseline_drive": 52.0,
+      "target_drive": 148.75,
+      "factor": 2.860576923076923
+    },
+    "UP": {
+      "baseline_drive": 282.0,
+      "target_drive": 148.75,
+      "factor": 0.5274822695035462
+    },
+    "DOWN": {
+      "baseline_drive": 195.0,
+      "target_drive": 148.75,
+      "factor": 0.7628205128205128
+    }
+  }
+}

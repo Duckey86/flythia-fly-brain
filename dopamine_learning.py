@@ -198,29 +198,52 @@ class FlyMemory:
 
 def apply_learned_weights(syn, fly_memory):
     """
-    Apply learned weight modifications to a Brian2 Synapses object.
-    Called after create_model() but before running the simulation.
-
-    Args:
-        syn: Brian2 Synapses object
-        fly_memory: FlyMemory instance
-    Returns:
-        number of synapses modified
+    Apply learned weight modifications to the actual
+    Brian2 synapses using explicit synapse indices.
     """
+
     mods = fly_memory.get_weight_multipliers()
+
     if not mods:
         return 0
 
+    # Actual pre/post neuron index for every synapse
+    pre_arr = np.asarray(
+        syn.i[:],
+        dtype=np.int64
+    )
+
+    post_arr = np.asarray(
+        syn.j[:],
+        dtype=np.int64
+    )
+
     modified = 0
-    # Brian2 synapses: syn.i = presynaptic indices, syn.j = postsynaptic indices
-    pre_arr = np.array(syn.i)
-    post_arr = np.array(syn.j)
 
     for (pre, post), mult in mods.items():
-        # Find synapses matching this pre→post pair
-        mask = (pre_arr == pre) & (post_arr == post)
-        if mask.any():
-            syn.w[mask] = syn.w[mask] * mult
-            modified += int(mask.sum())
+
+        mask = (
+            (pre_arr == pre)
+            &
+            (post_arr == post)
+        )
+
+        # Convert boolean matches into explicit
+        # Brian2 synapse indices
+        synapse_indices = np.flatnonzero(
+            mask
+        )
+
+        if len(synapse_indices) == 0:
+            continue
+
+        syn.w[synapse_indices] = (
+            syn.w[synapse_indices]
+            * float(mult)
+        )
+
+        modified += len(
+            synapse_indices
+        )
 
     return modified

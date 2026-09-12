@@ -1,0 +1,1083 @@
+{
+  "-1,-1|NEAR|EARLY": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      58154,
+      135739,
+      18513,
+      132898
+    ]
+  },
+  "-1,-1|NEAR|SOON": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      36847,
+      99002,
+      42225,
+      43194
+    ]
+  },
+  "-1,-1|NEAR|URGENT": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      1689,
+      24368,
+      26598,
+      94412
+    ]
+  },
+  "-1,-1|MID|EARLY": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      45361,
+      125092,
+      25166,
+      74538
+    ]
+  },
+  "-1,-1|MID|SOON": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      75140,
+      10185,
+      126155,
+      77745
+    ]
+  },
+  "-1,-1|MID|URGENT": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      123120,
+      93551,
+      31598,
+      32597
+    ]
+  },
+  "-1,-1|FAR|EARLY": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      33645,
+      129287,
+      65386,
+      132684
+    ]
+  },
+  "-1,-1|FAR|SOON": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      33754,
+      137711,
+      126866,
+      120066
+    ]
+  },
+  "-1,-1|FAR|URGENT": {
+    "direction": [
+      -1,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      41305,
+      137423,
+      71728,
+      2019
+    ]
+  },
+  "0,-1|NEAR|EARLY": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      86486,
+      88054,
+      106305,
+      67847,
+      116206
+    ]
+  },
+  "0,-1|NEAR|SOON": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      115780,
+      15654,
+      85423,
+      47672,
+      90926
+    ]
+  },
+  "0,-1|NEAR|URGENT": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      8025,
+      118092,
+      114341,
+      61553,
+      3227
+    ]
+  },
+  "0,-1|MID|EARLY": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      79788,
+      113154,
+      114732,
+      77459,
+      1094
+    ]
+  },
+  "0,-1|MID|SOON": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      53748,
+      73986,
+      72451,
+      62573,
+      1719
+    ]
+  },
+  "0,-1|MID|URGENT": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      15736,
+      132322,
+      60569,
+      135437,
+      127104
+    ]
+  },
+  "0,-1|FAR|EARLY": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      30485,
+      77704,
+      37851,
+      126964,
+      21584
+    ]
+  },
+  "0,-1|FAR|SOON": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      94696,
+      99845,
+      26199,
+      9112
+    ]
+  },
+  "0,-1|FAR|URGENT": {
+    "direction": [
+      0,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      86136,
+      36344,
+      38006,
+      112082
+    ]
+  },
+  "1,-1|NEAR|EARLY": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      85479,
+      91968,
+      66820,
+      34995,
+      49273
+    ]
+  },
+  "1,-1|NEAR|SOON": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      62300,
+      92973,
+      93124,
+      31109,
+      1404
+    ]
+  },
+  "1,-1|NEAR|URGENT": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      94815,
+      12557,
+      106858,
+      52762,
+      95921
+    ]
+  },
+  "1,-1|MID|EARLY": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      25826,
+      100126,
+      72647,
+      6763,
+      28016
+    ]
+  },
+  "1,-1|MID|SOON": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      126403,
+      19752,
+      82944,
+      108050,
+      27791
+    ]
+  },
+  "1,-1|MID|URGENT": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      132216,
+      52065,
+      28192,
+      65379,
+      106889
+    ]
+  },
+  "1,-1|FAR|EARLY": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      4059,
+      92133,
+      87600,
+      34529,
+      126102
+    ]
+  },
+  "1,-1|FAR|SOON": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      59222,
+      9983,
+      56041,
+      138167,
+      85148
+    ]
+  },
+  "1,-1|FAR|URGENT": {
+    "direction": [
+      1,
+      -1
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      43214,
+      87047,
+      101902,
+      58919
+    ]
+  },
+  "-1,0|NEAR|EARLY": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      29423,
+      120526,
+      115993,
+      12164,
+      63963,
+      84821
+    ]
+  },
+  "-1,0|NEAR|SOON": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      48298,
+      5250,
+      82781,
+      35425,
+      75544,
+      67749
+    ]
+  },
+  "-1,0|NEAR|URGENT": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      7030,
+      90061,
+      14154,
+      117644,
+      123347,
+      21145
+    ]
+  },
+  "-1,0|MID|EARLY": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      77920,
+      108895,
+      86460,
+      94090,
+      124922,
+      81977
+    ]
+  },
+  "-1,0|MID|SOON": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      40208,
+      27412,
+      125986,
+      67176,
+      59497,
+      136492
+    ]
+  },
+  "-1,0|MID|URGENT": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      89735,
+      105075,
+      28024,
+      67708,
+      31247,
+      6017
+    ]
+  },
+  "-1,0|FAR|EARLY": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      31907,
+      115282,
+      92862,
+      64652,
+      73589,
+      97906
+    ]
+  },
+  "-1,0|FAR|SOON": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      47699,
+      38778,
+      98766,
+      10424,
+      10389,
+      67013
+    ]
+  },
+  "-1,0|FAR|URGENT": {
+    "direction": [
+      -1,
+      0
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      44722,
+      99757,
+      123723,
+      26074,
+      130121
+    ]
+  },
+  "1,0|NEAR|EARLY": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      36236,
+      13603,
+      79267,
+      108533,
+      38302
+    ]
+  },
+  "1,0|NEAR|SOON": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      138078,
+      82453,
+      45481,
+      74795,
+      131277
+    ]
+  },
+  "1,0|NEAR|URGENT": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      104151,
+      58576,
+      119949,
+      29009,
+      39071
+    ]
+  },
+  "1,0|MID|EARLY": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      83667,
+      28029,
+      27043,
+      65387
+    ]
+  },
+  "1,0|MID|SOON": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      13439,
+      123741,
+      96178,
+      18936
+    ]
+  },
+  "1,0|MID|URGENT": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      94734,
+      116196,
+      122397,
+      6284
+    ]
+  },
+  "1,0|FAR|EARLY": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      20818,
+      6068,
+      13838,
+      98929
+    ]
+  },
+  "1,0|FAR|SOON": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      31831,
+      83101,
+      78030,
+      132110
+    ]
+  },
+  "1,0|FAR|URGENT": {
+    "direction": [
+      1,
+      0
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      17386,
+      52316,
+      6746,
+      500
+    ]
+  },
+  "-1,1|NEAR|EARLY": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      115581,
+      129391,
+      125142,
+      8650,
+      44149,
+      74746
+    ]
+  },
+  "-1,1|NEAR|SOON": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      79744,
+      38866,
+      77839,
+      122423,
+      21864,
+      40901
+    ]
+  },
+  "-1,1|NEAR|URGENT": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      136588,
+      30605,
+      13013,
+      60482,
+      113385,
+      25567
+    ]
+  },
+  "-1,1|MID|EARLY": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      124804,
+      9394,
+      132886,
+      124814,
+      38786,
+      10155
+    ]
+  },
+  "-1,1|MID|SOON": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      60968,
+      134579,
+      90117,
+      104582,
+      128180,
+      28205
+    ]
+  },
+  "-1,1|MID|URGENT": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      50497,
+      104655,
+      70922,
+      127745,
+      14653,
+      35073
+    ]
+  },
+  "-1,1|FAR|EARLY": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      32525,
+      28175,
+      135089,
+      26186,
+      3619,
+      138077
+    ]
+  },
+  "-1,1|FAR|SOON": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      100761,
+      26691,
+      99567,
+      3722,
+      26231,
+      92715
+    ]
+  },
+  "-1,1|FAR|URGENT": {
+    "direction": [
+      -1,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      36590,
+      107935,
+      25221,
+      105504,
+      27856
+    ]
+  },
+  "0,1|NEAR|EARLY": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      23117,
+      623,
+      23232,
+      34577,
+      76125
+    ]
+  },
+  "0,1|NEAR|SOON": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      105410,
+      95270,
+      118967,
+      29881,
+      123318
+    ]
+  },
+  "0,1|NEAR|URGENT": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      11599,
+      53962,
+      85284,
+      66782,
+      84517
+    ]
+  },
+  "0,1|MID|EARLY": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      18735,
+      126345,
+      123823,
+      58779,
+      133577
+    ]
+  },
+  "0,1|MID|SOON": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      65249,
+      98695,
+      16649,
+      11862,
+      132279
+    ]
+  },
+  "0,1|MID|URGENT": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      44017,
+      105293,
+      28836,
+      11925,
+      61316
+    ]
+  },
+  "0,1|FAR|EARLY": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      62109,
+      68372,
+      80206,
+      79337,
+      65610
+    ]
+  },
+  "0,1|FAR|SOON": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      33492,
+      101260,
+      45774,
+      33827
+    ]
+  },
+  "0,1|FAR|URGENT": {
+    "direction": [
+      0,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      22737,
+      38601,
+      34030,
+      17228
+    ]
+  },
+  "1,1|NEAR|EARLY": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      30766,
+      97398,
+      50951,
+      66604,
+      52080,
+      34767
+    ]
+  },
+  "1,1|NEAR|SOON": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "SOON",
+    "kc_indices": [
+      126060,
+      123541,
+      96493,
+      135024,
+      19942,
+      121891
+    ]
+  },
+  "1,1|NEAR|URGENT": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "NEAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      128302,
+      120058,
+      60441,
+      94074,
+      10951,
+      48301
+    ]
+  },
+  "1,1|MID|EARLY": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "MID",
+    "timing": "EARLY",
+    "kc_indices": [
+      60137,
+      86924,
+      7305,
+      17415,
+      51470,
+      90332
+    ]
+  },
+  "1,1|MID|SOON": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "MID",
+    "timing": "SOON",
+    "kc_indices": [
+      105010,
+      63640,
+      103740,
+      23717,
+      85435,
+      114300
+    ]
+  },
+  "1,1|MID|URGENT": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "MID",
+    "timing": "URGENT",
+    "kc_indices": [
+      19393,
+      18352,
+      32890,
+      101714,
+      113207
+    ]
+  },
+  "1,1|FAR|EARLY": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "EARLY",
+    "kc_indices": [
+      65952,
+      36726,
+      133302,
+      80988,
+      101552
+    ]
+  },
+  "1,1|FAR|SOON": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "SOON",
+    "kc_indices": [
+      86173,
+      80682,
+      34868,
+      111081,
+      136227
+    ]
+  },
+  "1,1|FAR|URGENT": {
+    "direction": [
+      1,
+      1
+    ],
+    "distance": "FAR",
+    "timing": "URGENT",
+    "kc_indices": [
+      72998,
+      71684,
+      110538,
+      42841,
+      32277
+    ]
+  }
+}
