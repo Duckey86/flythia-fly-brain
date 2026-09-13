@@ -23,6 +23,8 @@ data/gpu_training_checkpoints*/
 data/overnight_checkpoints/
 data/selfplay_checkpoints/
 data/fly_memory_*.json
+!data/fly_memory_CONTINUOUS_2deg.json
+!data/fly_memory_CONTINUOUS_2deg_metrics.json
 
 # Keep canonical trained model
 !data/fly_memory_FINAL_300bpm.json
