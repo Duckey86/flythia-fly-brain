@@ -33,3 +33,6 @@ data/flybrain_visual/
 # Misc generated files
 *.log
 *.tmp
+# Local packaged builds
+dist/
+build/

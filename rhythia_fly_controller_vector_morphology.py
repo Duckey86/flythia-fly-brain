@@ -1,6 +1,7 @@
 import json
 import socket
 import time
+import math
 from pathlib import Path
 
 import torch
@@ -34,6 +35,45 @@ ACTION_MBONS = {
 BASE = Path(__file__).resolve().parent
 PATTERN_FILE = BASE / "priority_kc_subpatterns_16.json"
 COMP_FILE = BASE / "data" / "2025_Completeness_783.csv"
+METRICS_FILE = (
+    BASE
+    / "data"
+    / "fly_memory_CONTINUOUS_2deg_metrics.json"
+)
+
+with open(METRICS_FILE, "r", encoding="utf-8") as f:
+    continuous_metrics = json.load(f)
+
+NEURAL_2DEG_CACHE = {
+    int(round(float(row["target"]))) % 360: row
+    for row in continuous_metrics["best"]["rows"]
+}
+
+print(
+    f"Loaded {len(NEURAL_2DEG_CACHE)} "
+    "trained 2-degree neural directions."
+)
+
+def continuous_target_angle(dx, dy):
+    # Rhythia +Y = visually up
+    # fly neural +Y = DOWN
+    return (
+        math.degrees(
+            math.atan2(-dy, dx)
+        )
+        % 360.0
+    )
+
+
+def nearest_2deg_angle(angle):
+    return (
+        int(
+            math.floor(
+                (angle + 1.0) / 2.0
+            )
+        )
+        * 2
+    ) % 360
 
 
 def axis(v):
@@ -403,8 +443,89 @@ try:
                 0.0,
             )
 
+        # ====================================================
+        # 2-DEGREE CONTINUOUS NEURAL MOTOR OUTPUT
+        # ====================================================
+
+        geom_angle = None
+        neural_angle = None
+        angle_diff = None
+        sensory_bin = None
+
+
+        if (
+            abs(dx) <= DEADZONE
+            and
+            abs(dy) <= DEADZONE
+        ):
+            last_vector = (
+                0.0,
+                0.0,
+            )
+
+        else:
+            sensory_angle = (
+                continuous_target_angle(
+                    dx,
+                    dy,
+                )
+            )
+
+            sensory_bin = (
+                nearest_2deg_angle(
+                    sensory_angle
+                )
+            )
+
+            neural_entry = (
+                NEURAL_2DEG_CACHE[
+                    sensory_bin
+                ]
+            )
+
+            # IMPORTANT:
+            # vx/vy were produced from:
+            #
+            # RIGHT - LEFT
+            # DOWN  - UP
+            #
+            # during the full neural evaluation.
+            #
+            # dx/dy is NOT used to construct
+            # this output vector.
+            last_vector = (
+                float(
+                    neural_entry["vx"]
+                ),
+                float(
+                    neural_entry["vy"]
+                ),
+            )
+            geom_angle = continuous_target_angle(dx, dy)
+
+            neural_angle = (
+                math.degrees(
+                    math.atan2(
+                        last_vector[1],
+                        last_vector[0],
+                    )
+                )
+                % 360.0
+            )
+
+            angle_diff = abs(
+                (
+                    neural_angle
+                    - geom_angle
+                    + 180.0
+                )
+                % 360.0
+                - 180.0
+            )
+
+
         # ----------------------------------------------------
-        # GAMEPLAY COMMAND — SAME SIMPLE PACKET AS BEFORE
+        # GAMEPLAY COMMAND â€” SAME SIMPLE PACKET AS BEFORE
         # ----------------------------------------------------
 
         if got_packet:
@@ -430,7 +551,7 @@ try:
         now = time.perf_counter()
 
         # ----------------------------------------------------
-        # SEPARATE HUD PACKET — DEBUG ONLY, THROTTLED TO 30 FPS
+        # SEPARATE HUD PACKET â€” DEBUG ONLY, THROTTLED TO 30 FPS
         # ----------------------------------------------------
 
         if (
@@ -515,6 +636,57 @@ try:
 
                 "decision_ms":
                     last_brain_ms,
+
+                # ==========================================
+                # CONTINUOUS 2-DEGREE NEURAL AIM DEBUG DATA
+                # ==========================================
+
+                "angle_valid":
+                    geom_angle is not None,
+
+                "target_angle":
+                    (
+                        float(geom_angle)
+                        if geom_angle is not None
+                        else 0.0
+                    ),
+
+                "sensory_bin":
+                    (
+                        int(sensory_bin)
+                        if sensory_bin is not None
+                        else -1
+                    ),
+
+                "neural_angle":
+                    (
+                        float(neural_angle)
+                        if neural_angle is not None
+                        else 0.0
+                    ),
+
+                "angle_diff":
+                    (
+                        float(angle_diff)
+                        if angle_diff is not None
+                        else 0.0
+                    ),
+
+                "lookahead":
+                    bool(
+                        p.get(
+                            "lookahead",
+                            False,
+                        )
+                    ),
+
+                "active_note":
+                    int(
+                        p.get(
+                            "active_note",
+                            note,
+                        )
+                    ),
             }
 
             hud_tx.sendto(
@@ -549,22 +721,26 @@ try:
                 )
             )
 
-            state_text = (
-                rich_state
-                if rich_state is not None
-                else "CENTERED"
-            )
+            if geom_angle is None:
+
+                angle_text = "CENTERED"
+
+            else:
+
+                angle_text = (
+                    f"target={geom_angle:6.2f}Â° | "
+                    f"bin={sensory_bin:3d}Â° | "
+                    f"neural={neural_angle:6.2f}Â° | "
+                    f"diff={angle_diff:5.2f}Â°"
+                )
 
             print(
                 f"\r"
                 f"{'FLY ON ' if enabled else 'FLY OFF'} | "
                 f"note={note:4d} | "
                 f"hit={time_to_note:7.1f}ms | "
-                f"err=({dx:+.2f},{dy:+.2f}) | "
-                f"state={state_text:25s} | "
-                f"winner={last_winner:5s} | "
-                f"vec=({last_vector[0]:+.2f},{last_vector[1]:+.2f}) | "
-                f"NN={last_brain_ms:4.1f}ms",
+                f"{angle_text} | "
+                f"vec=({last_vector[0]:+.2f},{last_vector[1]:+.2f})",
                 end="",
                 flush=True,
             )
